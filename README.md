@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hola a todos 👋
 
-<!--
-**chav19/chav19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mi nombre es Salvador Tetlalmatzin Garcia
 
-Here are some ideas to get you started:
+Soy Ing. Petrolero con 3 años de experiencia, durante mi tiempo libre automatizaba mis actividades o desarrollaba software enfocado en la industria petrolera.
+Actualmente estoy estudiando una segunda carrera de Ing. de Software y Redes, donde me estoy capacitando en los diferentes lenguajes de programacion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Lenguajes de Programacion
+
+Manejo estos lenguajes de programacion
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MatLab](https://img.shields.io/badge/matlab-R2026A%2B-orange)
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/chav19/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salvador-tetlalmatzin-garcia/)
