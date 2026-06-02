@@ -1,6 +1,6 @@
 ## Hola a todos 👋
 
-# Mi nombre es Salvador Tetlalmatzin Garcia
+# Mi nombre es Salvador Tetlalmatzin
 
 Soy Ing. Petrolero con 3 años de experiencia, durante mi tiempo libre automatizaba mis actividades o desarrollaba software enfocado en la industria petrolera.
 Actualmente estoy estudiando una segunda carrera de Ing. de Software y Redes, donde me estoy capacitando en los diferentes lenguajes de programacion.
