@@ -15,6 +15,7 @@ Manejo estos lenguajes de programacion
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MatLab](https://img.shields.io/badge/matlab-R2026A%2B-orange)
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529)
 
 
 ## 🔗 Links
